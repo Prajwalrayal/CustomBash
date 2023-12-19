@@ -11,9 +11,6 @@ Custom command for intern operations
 - [Usage](#usage)
 - [Options](#options)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 Clone the repository to your local machine:
@@ -23,12 +20,6 @@ git clone https://github.com/Prajwalrayal/internsctl.git
 cd internsctl
 chmod +x internsctl
 
-Usage
+## Usage
 ./internsctl [OPTIONS] [ARGS]
 
-Example
-./internsctl cpu getinfo
-./internsctl memory getinfo
-./internsctl user create john_doe
-./internsctl user list
-./internsctl user list --sudo-only
